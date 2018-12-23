@@ -1,4 +1,4 @@
-Xs and Os game with React
+Xs and Os game on React
 
 ### `npm start`
 
