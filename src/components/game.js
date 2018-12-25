@@ -11,7 +11,7 @@ const wrapperStyle = {
 
 const descriptionStyle = {
   color: 'blue',
-  fontSize: '140%',
+  fontSize: '25px',
   textAlign: 'center',  
 }
 
